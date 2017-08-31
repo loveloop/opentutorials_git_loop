@@ -1,4 +1,4 @@
 <?php
-$id = 'egoing';
-$password = '111111';
+$id = ' ';
+$password = ' ';
 ?>
